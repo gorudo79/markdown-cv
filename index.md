@@ -13,52 +13,53 @@ Born June 14th, 1983
 
 ## Current employment
 
-Working as a software consultant at Optomed Software Oy (formerly Commit; Oy). Even though the firm is in the healthcare business I have since the beginning worked for the consulation branch of the firm which does technical control (tekninen valvonta) of Veikkaus Oy gambling systems for Arpajaishallinto. 
+Working as a software consultant at Optomed Software Oy (formerly Commit; Oy). Even though the firm is in the healthcare business I have since the beginning worked for the consulation branch of the firm which does technical control (tekninen valvonta) of Veikkaus Oy gambling systems for Arpajaishallinto. THe primary things that this includes is receiving data from the different gaming systems and doing different kinds of validation and writing reports. Additionally many gambling systems results generation with PRNG algorithms. Java and Python are the primary programming languages that are used. I have also done some work with C and C#. I have been primarily involed in developing GUI applications by using gwt and Vaadin.
 
-### Specialized in
+### Languages
 
-Laws 
+Swedish (mother tongue), Finnish, English
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
- - Upper secondary school: Vasa Övningsskolas Gymnasium, 1999-2002.
- - Bachelor's Degree in Computer Science, Åbo Akademi University, Thesis: \textit{Java Micro Edition} 2003-2008
- - Master's Degree in Computer Science, Åbo Akademi University, Thesis: \textit{A Framework for Code Generation and Parallel
-Execution of Event-B Models}, 2003-2009
-
-
-## Employment
-
-`1.5.1999-31.8.2003`
-- Cleaner, Insinööritoimisto Granlund Vaasa Oy 1.5.1999-31.8.2003
-
-`1.6.2004-31.7.2004`
-- Summer Internship, The IT-center of the city of Vaasa 
-- Personal Assistant, Kårkulla Samkommun, Pargas, 4.6.2007-13.8.2007
-- Research Assistant, Åbo Akademi University, 1.6.2008-31.5.2011
-- Optomed Software Oy (previously Commit; Oy), 27.10.2011-
 
 ## Technical skills
 
 Java, Python, 
+
+
+## Employment
+
+`27.10.2011 - now`
+- Optomed Software Oy (previously Commit; Oy).
+
+`1.6.2008 - 31.5.2011`
+- Research Assistant, Åbo Akademi University.
+
+`4.6.2007 - 13.8.2007`
+- Personal Assistant, Kårkulla Samkommun, Pargas.
+
+`1.6.2004 - 31.7.2004`
+- Summer Internship, The IT-center of the city of Vaasa.
+
+`1.5.1999 - 31.8.2003`
+- Cleaner, Insinööritoimisto Granlund Vaasa Oy.
+
+
+## Education
+
+`2003 - 2009`
+ - __Master's Degree in Computer Science, Åbo Akademi University__, Thesis: _A Framework for Code Generation and Parallel
+Execution of Event-B Models_
+
+`2003 - 2008`
+ - Bachelor's Degree in Computer Science, Åbo Akademi University, Thesis: _Java Micro Edition_
+
+`1999 - 2002
+ - __Upper secondary school, Vasa Övningsskolas Gymnasium.__
+
+
+
+
+
+
 
 
 <!-- ### Footer
