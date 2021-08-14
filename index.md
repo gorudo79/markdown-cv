@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Grönblom CV
 ---
 # Grönblom
 Born June 14th, 1983
 
 <div id="webaddress">
 <a href="gronblom@gmail.com">gronblom@gmail.com</a>
-| <a href="https://github.com/gronblom">github</a>
+| <a href="https://github.com/gronblom">https://github.com/gronblom</a>
 </div>
 
 
-## Currently
+## Current employment
 
-Working as a software consultant at Optomed Oyj (formerly Commit; Oy which was acquired). 
+Working as a software consultant at Optomed Software Oy (formerly Commit; Oy). Even though the firm is in the healthcare business I have since the beginning worked for the consulation branch of the firm which does technical control (tekninen valvonta) of Veikkaus Oy gambling systems for Arpajaishallinto. 
 
 ### Specialized in
 
@@ -47,39 +47,18 @@ Execution of Event-B Models}, 2003-2009
 
 ## Employment
 
+`1.5.1999-31.8.2003`
 - Cleaner, Insinööritoimisto Granlund Vaasa Oy 1.5.1999-31.8.2003
-- Summer Internship, The IT-center of the city of Vaasa 1.6.2004-31.7.2004
+
+`1.6.2004-31.7.2004`
+- Summer Internship, The IT-center of the city of Vaasa 
 - Personal Assistant, Kårkulla Samkommun, Pargas, 4.6.2007-13.8.2007
 - Research Assistant, Åbo Akademi University, 1.6.2008-31.5.2011
 - Optomed Software Oy (previously Commit; Oy), 27.10.2011-
 
-### Journals
+## Technical skills
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Java, Python, 
 
 
 <!-- ### Footer
