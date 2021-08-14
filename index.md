@@ -13,7 +13,7 @@ Born June 14th, 1983
 
 ## Current employment
 
-Working as a software consultant at Optomed Software Oy (formerly Commit; Oy). Even though the firm is in the healthcare business I have since the beginning worked for the consulation branch of the firm which does technical control (tekninen valvonta) of Veikkaus Oy gambling systems for Arpajaishallinto. THe primary things that this includes is receiving data from the different gaming systems and doing different kinds of validation and writing reports. Additionally many gambling systems results generation with PRNG algorithms. Java and Python are the primary programming languages that are used. I have also done some work with C and C#. I have been primarily involed in developing GUI applications by using gwt and Vaadin.
+Working as a software consultant at Optomed Software Oy (formerly Commit; Oy). The firm is in the healthcare business but I have since the beginning worked for the consulation branch of the firm, which provides technical control (tekninen valvonta) for Arpajaishallinto of Veikkaus Oy gambling systems. The primary things that this includes is receiving data from the different gaming systems to which different kinds of validation is done and report writing. Additionally many gambling systems results generation with PRNG algorithms. Java and Python are the primary programming languages that are used. I have also done some work with C and C#. I have been primarily involved in developing GUI applications using gwt and Vaadin with RCP, databases, user authentication and searchable data.
 
 ### Languages
 
@@ -22,7 +22,7 @@ Swedish (mother tongue), Finnish, English
 
 ## Technical skills
 
-Java, Python, 
+Java, Python, Lucene, podman, SQL, Grafana javascript, typescript, React, express, graphql
 
 
 ## Employment
@@ -46,20 +46,14 @@ Java, Python,
 ## Education
 
 `2003 - 2009`
- - __Master's Degree in Computer Science, Åbo Akademi University__, Thesis: _A Framework for Code Generation and Parallel
+ - Master's Degree in Computer Science, Åbo Akademi University, Thesis: _A Framework for Code Generation and Parallel
 Execution of Event-B Models_
 
 `2003 - 2008`
  - Bachelor's Degree in Computer Science, Åbo Akademi University, Thesis: _Java Micro Edition_
 
-`1999 - 2002
- - __Upper secondary school, Vasa Övningsskolas Gymnasium.__
-
-
-
-
-
-
+`1999 - 2002`
+ - Upper secondary school, Vasa Övningsskolas Gymnasium.
 
 
 <!-- ### Footer
