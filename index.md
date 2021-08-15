@@ -46,11 +46,12 @@ Java, Python, Lucene, podman, SQL, Grafana javascript, typescript, React, expres
 ## Education
 
 `2003 - 2009`
- - Master's Degree in Computer Science, Åbo Akademi University, Thesis: _A Framework for Code Generation and Parallel
-Execution of Event-B Models_
+ - Master's Degree in Computer Science, Åbo Akademi University
+   Thesis: _A Framework for Code Generation and Parallel Execution of Event-B Models_
 
 `2003 - 2008`
- - Bachelor's Degree in Computer Science, Åbo Akademi University, Thesis: _Java Micro Edition_
+ - Bachelor's Degree in Computer Science, Åbo Akademi University
+   Thesis: _Java Micro Edition_
 
 `1999 - 2002`
  - Upper secondary school, Vasa Övningsskolas Gymnasium.
