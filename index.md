@@ -13,7 +13,9 @@ Born June 14th, 1983
 
 ## Current employment
 
-Working as a software consultant at Optomed Software Oy (formerly Commit; Oy). The firm is in the healthcare business but I have since the beginning worked for the consulation branch of the firm, which provides technical control (tekninen valvonta) for Arpajaishallinto of Veikkaus Oy gambling systems. The primary things that this includes is receiving data from the different gaming systems to which different kinds of validation is done and report writing. Additionally many gambling systems results generation with PRNG algorithms. Java and Python are the primary programming languages that are used. I have also done some work with C and C#. I have been primarily involved in developing GUI applications using gwt and Vaadin with RCP, databases, user authentication and searchable data.
+Working as a software consultant at Optomed Software Oy (formerly Commit; Oy). The firm is primarily in the healthcare business but I have since the beginning worked for the consultation branch with Arpajaishallinto as a customer, which provides technical control (tekninen valvonta) of Veikkaus Oy gambling systems. The primary things that this includes is receiving data from all the different gaming systems to which different kinds of validation is done, after report writing. Additionally some gambling systems results generation with PRNG algorithms. Java and Python are the primary programming languages that I used with additionally some work with C and C#.
+
+I have been primarily involved in developing both backend and frontend for GUI applications using gwt and Vaadin with RCP, databases, user authentication and searchable data.
 
 ### Languages
 
@@ -22,7 +24,7 @@ Swedish (mother tongue), Finnish, English
 
 ## Technical skills
 
-Java, Python, Lucene, podman, SQL, Grafana javascript, typescript, React, express, graphql
+Java, Python, C, C#, javascript, CSS, typescript, mercurial, git, SQL, Grafana, Lucene, podman, React, express, graphql, Eclipse, Visual Studio Pro
 
 
 ## Employment
