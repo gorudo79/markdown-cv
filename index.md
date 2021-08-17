@@ -7,8 +7,11 @@ Born June 14th, 1983.
 
 ## Contact
 Punavuorenkatu 11 A 9
+
 00120 Helsinki
+
 FINLAND
+
 +358503068909
 
 <div id="webaddress">
@@ -47,14 +50,10 @@ Java, Python, C, Haskell, linux, Vaadin, gwt, tomcat, jetty, javascript, CSS, ty
 ## Education
 
 `2003 - 2009`
- - Master's Degree in Computer Science, Åbo Akademi University
-  
-   Thesis: _A Framework for Code Generation and Parallel Execution of Event-B Models_
+ - Master's Degree in Computer Science, Åbo Akademi University. Thesis: A Framework for Code Generation and Parallel Execution of Event-B Models
 
 `2003 - 2008`
- - Bachelor's Degree in Computer Science, Åbo Akademi University
- 
-   Thesis: _Java Micro Edition_
+ - Bachelor's Degree in Computer Science, Åbo Akademi University. Thesis: _Java Micro Edition_
 
 `1999 - 2002`
  - Upper secondary school, Vasa Övningsskolas Gymnasium.
