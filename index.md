@@ -34,7 +34,8 @@ Java, Python, C, Haskell, linux, Vaadin, gwt, tomcat, jetty, javascript, CSS, ty
 ## Employment
 
 `27.10.2011 - now`
-- Software Developer, Optomed Software Oy (previously Commit; Oy).
+- Software Developer, Optomed Software Oy.
+- (previously Commit; Oy)
 
 `1.6.2008 - 31.5.2011`
 - Research Assistant, Åbo Akademi University.
