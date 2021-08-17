@@ -51,7 +51,7 @@ Java, Python, C, Haskell, linux, Vaadin, gwt, tomcat, jetty, javascript, CSS, ty
 
 `2003 - 2009`
  - Master's Degree in Computer Science, Åbo Akademi University.
- - Thesis: A Framework for Code Generation and Parallel Execution of Event-B Models
+ - Thesis: _A Framework for Code Generation and Parallel Execution of Event-B Models_
 
 `2003 - 2008`
  - Bachelor's Degree in Computer Science, Åbo Akademi University.
