@@ -4,6 +4,9 @@ title: Grönblom CV
 ---
 # Grönblom
 Born June 14th, 1983
+Punavuorenkatu 11 A 9
+00120 Helsinki
++358503068909
 
 <div id="webaddress">
 <a href="gronblom@gmail.com">gronblom@gmail.com</a>
@@ -24,13 +27,13 @@ Swedish (mother tongue), Finnish, English
 
 ## Technical skills
 
-Java, Python, C, C#, javascript, CSS, typescript, mercurial, git, SQL, Grafana, Lucene, podman, React, express, graphql, Eclipse, Visual Studio Pro
+Java, Python, C, linux, javascript, CSS, typescript, mercurial, git, SQL, Grafana, Lucene, podman, React, express, graphql, Eclipse, Visual Studio Pro
 
 
 ## Employment
 
 `27.10.2011 - now`
-- Optomed Software Oy (previously Commit; Oy).
+- Software Developer, Optomed Software Oy (previously Commit; Oy).
 
 `1.6.2008 - 31.5.2011`
 - Research Assistant, Åbo Akademi University.
