@@ -3,7 +3,7 @@ layout: cv
 title: Grönblom CV
 ---
 # Richard "Dick" Grönblom
-Born June 14th, 1983.
+Born June 14th, 1983 in Vaasa, Finland.
 
 ## Contact
 Punavuorenkatu 11 A 9
