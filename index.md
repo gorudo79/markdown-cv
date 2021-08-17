@@ -16,7 +16,7 @@ FINLAND
 
 <div id="webaddress">
 <a href="gronblom@gmail.com">gronblom@gmail.com</a>
-| <a href="https://github.com/gronblom">https://github.com/gronblom</a>
+<a href="https://github.com/gronblom">https://github.com/gronblom</a>
 </div>
 
 ## Languages
