@@ -14,9 +14,8 @@ FINLAND
 
 +358503068909
 
-<div id="email">
- <a href="gronblom@gmail.com">gronblom@gmail.com</a>
-</div>
+gronblom@gmail.com
+
 <div id="webaddress">
  <a href="https://github.com/gronblom">https://github.com/gronblom</a>
 </div>
