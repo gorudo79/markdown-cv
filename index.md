@@ -2,10 +2,13 @@
 layout: cv
 title: Grönblom CV
 ---
-# Grönblom
-Born June 14th, 1983
+# Richard "Dick" Grönblom
+Born June 14th, 1983.
+
+## Contact
 Punavuorenkatu 11 A 9
 00120 Helsinki
+FINLAND
 +358503068909
 
 <div id="webaddress">
@@ -13,21 +16,14 @@ Punavuorenkatu 11 A 9
 | <a href="https://github.com/gronblom">https://github.com/gronblom</a>
 </div>
 
-
-## Current employment
-
-Working as a software consultant at Optomed Software Oy (formerly Commit; Oy). The firm is primarily in the healthcare business but I have since the beginning worked for the consultation branch with Arpajaishallinto as a customer, which provides technical control (tekninen valvonta) of Veikkaus Oy gambling systems. The primary things that this includes is receiving data from all the different gaming systems to which different kinds of validation is done, after report writing. Additionally some gambling systems results generation with PRNG algorithms. Java and Python are the primary programming languages that I used with additionally some work with C and C#.
-
-I have been primarily involved in developing both backend and frontend for GUI applications using gwt and Vaadin with RCP, databases, user authentication and searchable data.
-
-### Languages
+## Languages
 
 Swedish (mother tongue), Finnish, English
 
 
 ## Technical skills
 
-Java, Python, C, linux, javascript, CSS, typescript, mercurial, git, SQL, Grafana, Lucene, podman, React, express, graphql, Eclipse, Visual Studio Pro
+Java, Python, C, Haskell, linux, Vaadin, gwt, tomcat, jetty, javascript, CSS, typescript, mercurial, git, SQL, Grafana, Lucene, podman, React, express, graphql, Eclipse, Visual Studio Pro
 
 
 ## Employment
