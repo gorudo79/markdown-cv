@@ -28,7 +28,7 @@ Swedish (mother tongue), Finnish, English
 
 ## Technical skills
 
-Java, Python, C, Haskell, linux, Vaadin, gwt, tomcat, jetty, javascript, CSS, typescript, mercurial, git, SQL, Grafana, Lucene, podman, React, express, graphql, Eclipse, Visual Studio Pro
+Java, Python, C, Haskell, Linux, Vaadin, GWT, Tomcat, Jetty, JavaCcript, CSS, Typescript, Mercurial, Git, SQL, Grafana, Lucene, Podman, React, express, GraphQL, Eclipse, Visual Studio Pro
 
 
 ## Employment
