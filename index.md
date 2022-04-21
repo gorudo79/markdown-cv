@@ -2,32 +2,13 @@
 layout: cv
 title: Grönblom CV
 ---
-# Richard "Dick" Grönblom
+# Richard Grönblom
 Born June 14th, 1983 in Vaasa, Finland.
 
-## Contact
-Punavuorenkatu 11 A 9
-
-00120 Helsinki
-
-FINLAND
-
-+358503068909
-
-gronblom@gmail.com
-
-<div id="webaddress">
- <a href="https://github.com/gronblom">https://github.com/gronblom</a>
-</div>
 
 ## Languages
 
 Swedish (mother tongue), Finnish, English
-
-
-## Technical skills
-
-Java, Python, Linux, SQL, JavaScript, Typescript, HTML, CSS, Vaadin, GWT, Tomcat, Jetty, C, Haskell, Mercurial, Git, Grafana, Lucene, Podman, React, Node, GraphQL, AWS
 
 
 ## Employment
