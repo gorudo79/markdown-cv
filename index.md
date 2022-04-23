@@ -28,11 +28,13 @@ Swedish (mother tongue), Finnish, English
 - Software Developer, Optomed Software Oy.
 - (previously Commit; Oy)
 - **Backend, 8 years:**
-- Java, Spring, JDBC, Oracle Db, Ormlite, python, Linux, bash, C, XML and JSON data protocols with schemas and receivers. Digital signatures.
+- Java, Spring, JDBC, Oracle Db, Ormlite, python, Linux, bash, C.
+- XML and JSON data protocols with schemas and receivers. Digital signatures. System health monitoring.
 - **Fullstack, 2 years:**
-- Java fullstack with Vaadin, gwt and JavaFX/javascript/html. Jetty & Tomcat. Searchable data with Lucene. JSON-RPC 2.0 protocol with sqlite. 
-- **Misc. 6 months:**
-- Grafana with InfluxDB, telegraf, podman, bash and python
+- Java fullstack with Vaadin, gwt and JavaFX/javascript/html. Jetty & Tomcat.
+- Searchable data with Lucene. JSON-RPC 2.0 protocol with sqlite. PDF reports, PGP and SFTP.
+- **Misc. 4 months:**
+- Grafana with InfluxDB, telegraf, podman, bash and python.
  
 
 `1.6.2008 - 31.5.2011`
