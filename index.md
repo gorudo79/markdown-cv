@@ -52,8 +52,10 @@ Swedish (mother tongue), Finnish, English
 
 ## Personal projects
 
+-
 <div id="webaddress"><a href="https://github.com/gronblom/assorted-projects">https://github.com/gronblom/assorted-projects</a></div>
-- Node, React, javascript, Typescript, MongoDB, DynamoDB, PostgreSQL, Haskell, Kotlin, Go, Github actions, Jenkins, GraphQL, AWS, AWS CDK
+- Node, React, javascript, Typescript, MongoDB, DynamoDB, PostgreSQL, Haskell, Kotlin, Go, Github actions,
+- Jenkins, GraphQL, AWS, AWS CDK
 
 
 ## Education
