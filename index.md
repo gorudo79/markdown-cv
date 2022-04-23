@@ -2,13 +2,32 @@
 layout: cv
 title: Grönblom CV
 ---
-# Richard Grönblom
+# Richard "Dick" Grönblom
 Born June 14th, 1983 in Vaasa, Finland.
 
+## Contact
+Punavuorenkatu 11 A 9
+
+00120 Helsinki
+
+FINLAND
+
++358503068909
+
+gronblom@gmail.com
+
+<div id="webaddress">
+ <a href="https://github.com/gronblom">https://github.com/gronblom</a>
+</div>
 
 ## Languages
 
 Swedish (mother tongue), Finnish, English
+
+
+## Technical skills
+
+Java, Python, Linux, SQL, JavaScript, Typescript, HTML, CSS, Vaadin, GWT, Tomcat, Jetty, C, Haskell, Mercurial, Git, Grafana, Lucene, Podman, React, Node, GraphQL, AWS
 
 
 ## Employment
@@ -16,6 +35,10 @@ Swedish (mother tongue), Finnish, English
 `27.10.2011 - now`
 - Software Developer, Optomed Software Oy.
 - (previously Commit; Oy)
+ Backend, 8 years: Java, Spring, JDBC, Oracle Db, python, Linux, C, XML and JSON data protocols with schemas and receivers, 
+ Fullstack, 2 years: Java fullstack with Vaadin, gwt and JavaFX/javascript/html. Jetty / Tomcat. Lucene for searchable data. JSON-RPC protocol. 
+ Misc: Grafana with InfluxDB, telegraf, podman, bash and python
+ 
 
 `1.6.2008 - 31.5.2011`
 - Research Assistant, Åbo Akademi University.
