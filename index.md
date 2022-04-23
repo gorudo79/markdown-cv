@@ -52,7 +52,7 @@ Swedish (mother tongue), Finnish, English
 
 ## Personal projects
 
-- Portfolio: <div id="webaddress"><a href="https://github.com/gronblom/assorted-projects">https://github.com/gronblom/assorted-projects</a></div>
+- Portfolio: <a href="https://github.com/gronblom/assorted-projects">https://github.com/gronblom/assorted-projects</a>
 - Node, React, javascript, Typescript, MongoDB, DynamoDB, PostgreSQL, Haskell, Kotlin, Go, Github actions,
 - Jenkins, GraphQL, AWS, AWS CDK
 
