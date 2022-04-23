@@ -16,10 +16,6 @@ FINLAND
 
 gronblom@gmail.com
 
-## Github portfolio
-<div id="webaddress">
- <a href="https://github.com/gronblom/assorted-projects">https://github.com/gronblom/assorted-projects</a>
-</div>
 
 ## Languages
 
@@ -32,9 +28,9 @@ Swedish (mother tongue), Finnish, English
 - Software Developer, Optomed Software Oy.
 - (previously Commit; Oy)
 - Backend, 8 years:
-- Java, Spring, JDBC, Oracle Db, python, Linux, bash, C, XML and JSON data protocols with schemas and receivers, 
+- Java, Spring, JDBC, Oracle Db, Ormlite, python, Linux, bash, C, XML and JSON data protocols with schemas and receivers. Digital signatures.
 - Fullstack, 2 years:
-- Java fullstack with Vaadin, gwt and JavaFX/javascript/html. Jetty & Tomcat. Lucene for searchable data. JSON-RPC 2.0 protocol with sqlite. 
+- Java fullstack with Vaadin, gwt and JavaFX/javascript/html. Jetty & Tomcat. Searchable data with Lucene. JSON-RPC 2.0 protocol with sqlite. 
 - Misc. 6 months:
 - Grafana with InfluxDB, telegraf, podman, bash and python
  
@@ -54,6 +50,9 @@ Swedish (mother tongue), Finnish, English
 
 ## Personal projects
 
+- <div id="webaddress">
+ <a href="https://github.com/gronblom/assorted-projects">https://github.com/gronblom/assorted-projects</a>
+</div>
 - Node, React, javascript, Typescript, MongoDB, DynamoDB, PostgreSQL, Haskell, Kotlin, Go, Github actions, Jenkins, GraphQL, AWS, AWS CDK
 
 
