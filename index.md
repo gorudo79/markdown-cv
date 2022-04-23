@@ -33,7 +33,7 @@ Swedish (mother tongue), Finnish, English
    - **Fullstack, 2 years:**
    - Java fullstack with Vaadin, gwt and JavaFX/javascript/html. Jetty & Tomcat.
    - Searchable data with Lucene. JSON-RPC 2.0 protocol with sqlite. PDF reports, PGP and SFTP.
-   - **Misc. 4 months:**
+   - **Dashboards, 4 months:**
    - Grafana with InfluxDB, telegraf, podman, bash and python.
  
 
