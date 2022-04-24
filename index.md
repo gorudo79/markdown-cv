@@ -29,10 +29,11 @@ Swedish (mother tongue), Finnish, English
 - (previously Commit; Oy)
    - **Backend, 8 years:**
    - Java, Spring, JDBC, Oracle Db, Ormlite, python, Linux, bash, C.
-   - XML and JSON data protocols with schemas and receivers. Digital signatures. System health monitoring.
+   - XML and JSON data protocols with schemas and receivers.
+   - Digital signatures. System health monitoring.
    - **Fullstack, 2 years:**
-   - Java fullstack with Vaadin, gwt and JavaFX/javascript/html. Jetty & Tomcat. User management.
-   - Searchable data with Lucene. JSON-RPC 2.0 protocol with sqlite. PDF reports, PGP and SFTP.
+   - Java fullstack with Vaadin, gwt and JavaFX/javascript/html. Jetty & Tomcat.
+   - User management. Searchable data with Lucene. JSON-RPC 2.0 protocol with sqlite.
    - **Dashboards, 4 months:**
    - Grafana with InfluxDB, flux, telegraf, podman, bash and python.
  
@@ -53,8 +54,8 @@ Swedish (mother tongue), Finnish, English
 ## Personal projects
 
 - <a href="https://github.com/gronblom/assorted-projects">https://github.com/gronblom/assorted-projects</a>
-- Node, React, javascript, Typescript, MongoDB, DynamoDB, PostgreSQL, Haskell, Kotlin, Go, Github actions,
-- Jenkins, GraphQL, AWS, AWS CDK
+- Node, React, javascript, Typescript, MongoDB, DynamoDB, PostgreSQL,
+- Haskell, Kotlin, Go, Github actions, Jenkins, GraphQL, AWS, AWS CDK
 
 
 ## Education
