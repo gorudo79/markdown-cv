@@ -33,7 +33,7 @@ Swedish (mother tongue), Finnish, English
    - Digital signatures. System health monitoring.
    - **Fullstack, 2 years:**
    - Java fullstack with Vaadin, gwt and JavaFX/javascript/html. Jetty & Tomcat.
-   - User management. Searchable data with Lucene. JSON-RPC 2.0 protocol with sqlite.
+   - User management. Searchable data with Lucene. JSON-RPC 2.0 with sqlite.
    - **Dashboards, 4 months:**
    - Grafana with InfluxDB, flux, telegraf, podman, bash and python.
  
